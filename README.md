@@ -43,28 +43,32 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 2. Explora la información detallada del Pokémon en pantalla.
 3. Navega entre las pestañas para acceder a otras funcionalidades.
 
-## Autore
+## Autor
 - **Yuverly Verdezoto**
 
 ## Capturas de Funcionamiento
 ![Vista previa de la Pokédex](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/imas.png?raw=true)
 ![Vista previa el Juego de Cartas](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
 
+##Icono de la Aplicacion
+![image](https://github.com/user-attachments/assets/b29650ef-1ce3-431c-9497-12960584b86b)
 
 
 ## Recursos
 - [PokéAPI](https://pokeapi.co/): API utilizada para obtener los datos de los Pokémon.
 - [Documentación de Flutter](https://docs.flutter.dev/): Recursos y guías para desarrollar en Flutter.
 
-## publiacion del apk
+## Publiacion del apk
 Se debe crear una cuenta como desarrollador en UPTODOWN CONSOLE y para ello se necesita el nombre de la ofganizacion en mi caso fue TKhaos
 ![ima](https://github.com/YuverlyHidokun/FlutterApp-Pk/blob/main/lib/up1.png?raw=true)
 
  Damos click en add new app para agregar nuestro apk
-![ima2](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+![ima2](https://github.com/YuverlyHidokun/FlutterApp-Pk/blob/main/lib/up2.png?raw=true)
 
 Subimos el apk y esperamos a que se termine de cargar
-![ima3](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+![ima3](https://github.com/YuverlyHidokun/FlutterApp-Pk/blob/main/lib/up3.png?raw=true)
+![image](https://github.com/user-attachments/assets/733fc853-b7b5-4feb-9ecd-33a942740bf1)
 
 Por ultimo esperamos la autorizacion de la app por algun moderador
-![ima4](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+![image](https://github.com/user-attachments/assets/a6a4790e-8a53-4093-be05-e72dd617ef0e)
+
