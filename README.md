@@ -58,7 +58,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 
 ## publiacion del apk
 Se debe crear una cuenta como desarrollador en UPTODOWN CONSOLE y para ello se necesita el nombre de la ofganizacion en mi caso fue TKhaos
-![ima]((https://github.com/YuverlyHidokun/FlutterApp-Pk/blob/main/lib/up1.png?raw=true))
+![ima](https://github.com/YuverlyHidokun/FlutterApp-Pk/blob/main/lib/up1.png?raw=true)
 
  Damos click en add new app para agregar nuestro apk
 ![ima2](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
