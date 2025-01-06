@@ -43,9 +43,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 2. Explora la información detallada del Pokémon en pantalla.
 3. Navega entre las pestañas para acceder a otras funcionalidades.
 
-## Autores
-- **Eduardo Caza**
-- **Luis Guaygua**
+## Autore
 - **Yuverly Verdezoto**
 
 ## Capturas de Funcionamiento
@@ -58,6 +56,15 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 - [PokéAPI](https://pokeapi.co/): API utilizada para obtener los datos de los Pokémon.
 - [Documentación de Flutter](https://docs.flutter.dev/): Recursos y guías para desarrollar en Flutter.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+## publiacion del apk
+Se debe crear una cuenta como desarrollador en UPTODOWN CONSOLE y para ello se necesita el nombre de la ofganizacion en mi caso fue TKhaos
+![ima](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
 
+ Damos click en add new app para agregar nuestro apk
+![ima2](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+
+Subimos el apk y esperamos a que se termine de cargar
+![ima3](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+
+Por ultimo esperamos la autorizacion de la app por algun moderador
+![ima4](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
