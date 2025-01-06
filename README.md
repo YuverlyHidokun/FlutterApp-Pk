@@ -50,7 +50,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 ![Vista previa de la Pokédex](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/imas.png?raw=true)
 ![Vista previa el Juego de Cartas](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
 
-##Icono de la Aplicacion
+## Icono de la Aplicacion
 ![image](https://github.com/user-attachments/assets/b29650ef-1ce3-431c-9497-12960584b86b)
 
 
