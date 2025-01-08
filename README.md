@@ -72,3 +72,9 @@ Subimos el apk y esperamos a que se termine de cargar
 Por ultimo esperamos la autorizacion de la app por algun moderador
 ![image](https://github.com/user-attachments/assets/a6a4790e-8a53-4093-be05-e72dd617ef0e)
 
+## Publicacion en la tienda de Aptoide
+
+![ima](https://github.com/user-attachments/assets/12103b76-ca18-4d9a-bffb-01efe2d10bf1)
+
+Link: pokemon-api.en.aptoide.com/
+
